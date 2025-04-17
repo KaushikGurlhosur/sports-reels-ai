@@ -90,3 +90,8 @@ S3_BUCKET_NAME=
 
 GOOGLE_GENERATIVE_AI_API_KEY=
 SERP_API_KEY=
+
+This application enables users to enter the name of a sports celebrity along with their sport, subsequently generating a short video reel (60–90 seconds) that showcases the celebrity's career highlights and achievements. The entire process is automated through the use of AI services.  
+(Note: Video generation may take 1-2 minutes.)
+
+🚀 **Live Demo:** [View the live project here](https://sports-celebrity-reels-kaushikgurlhosurs-projects.vercel.app/)
